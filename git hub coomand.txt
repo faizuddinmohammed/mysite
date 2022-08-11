@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/faizuddinmohammed/Genissyswebsite.git
+git remote set-url origin https://faizuddinmohammed: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@github.com/faizuddinmohammed/Genissyswebsite.git
+git push
+git push --set-upstream origin master
+
+
+
+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
